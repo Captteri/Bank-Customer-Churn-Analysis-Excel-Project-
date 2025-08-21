@@ -1,5 +1,5 @@
 # Bank-Customer-Churn-Analysis-Excel-Project-
-This project explores customer churn in the banking sector using Excel. The goal is to identify the key drivers of churn and provide actionable insights that can help reduce customer attrition.  The analysis was done by combining Excel’s advanced functions with statistical approaches to measure relationships, highlight trends.
+This project explores customer churn in the banking sector using Excel. The goal is to identify the key drivers of churn and provide actionable insights that can help reduce customer attrition.  The analysis was done by combining Excel’s advanced functions with statistical approaches to measure relationships and highlight trends.
 
 # 📊 Dataset Summary
 
